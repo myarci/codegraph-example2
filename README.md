@@ -1,2 +1,2 @@
-# codegraph-example2
+# codegraph-example
 codegraph-example
