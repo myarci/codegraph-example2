@@ -26,6 +26,9 @@ public class GreetingService {
     public void methodAdded() {
         System.out.println("3");
     }
-    thisCodeWillNotCompile
+
+    public void methodAdded() {
+        System.out.println("3");
+    }
 }
 
