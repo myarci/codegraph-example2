@@ -22,5 +22,9 @@ public class GreetingService {
     public void methodRevision3() {
         System.out.println("3");
     }
+
+    public void methodAdded() {
+        System.out.println("3");
+    }
 }
 

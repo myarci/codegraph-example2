@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/codegraph-example2.iml" filepath="$PROJECT_DIR$/codegraph-example2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codegraph-example2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/codegraph-example2_main.iml" group="codegraph-example2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codegraph-example2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/codegraph-example2_test.iml" group="codegraph-example2" />
     </modules>
   </component>
 </project>
