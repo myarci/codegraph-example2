@@ -27,5 +27,9 @@ public class GreetingService {
         System.out.println("3");
     }
 
+    public void newmethodAdded() {
+        System.out.println("3");
+    }
+
 }
 

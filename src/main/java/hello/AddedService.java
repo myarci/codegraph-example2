@@ -3,7 +3,7 @@ package hello;
 import org.springframework.stereotype.Controller;
 
 @Controller
-public class DeletedService {
+public class AddedService {
 
     private static final String CLASS = "class";
 
